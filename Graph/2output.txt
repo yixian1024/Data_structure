@@ -1,0 +1,6 @@
+The edges of Minimum cost spanning tree are:
+Edge 1:<1 2> cost:2
+Edge 2:<3 5> cost:3
+Edge 3:<2 4> cost:4
+Edge 4:<1 3> cost:5
+Minimum cost = 14

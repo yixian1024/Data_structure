@@ -1,0 +1,6 @@
+Enter the vertices<start end>:1 5
+The cost from start to end is : 8
+
+Enter the vertices<start end>:3 4
+The cost from start to end is : -1
+

@@ -1,0 +1,187 @@
+Round 0:
+In row 1:89 
+In row 2:49 
+In row 3:75 
+In row 4:43 
+player:1 point:66
+player:2 point:66
+player:3 point:66
+player:4 point:66
+player:5 point:66
+player:6 point:66
+player:7 point:66
+player:8 point:66
+player:9 point:66
+player:10 point:66
+
+
+Round 1:
+In row 1:89 
+In row 2:49 51 53 54 
+In row 3:75 
+In row 4:29 38 45 
+player:1 point:66
+player:2 point:66
+player:3 point:66
+player:4 point:65
+player:5 point:66
+player:6 point:66
+player:7 point:62
+player:8 point:66
+player:9 point:66
+player:10 point:66
+
+
+Round 2:
+In row 1:89 94 95 
+In row 2:84 
+In row 3:24 39 
+In row 4:29 38 45 48 
+player:1 point:66
+player:2 point:62
+player:3 point:66
+player:4 point:65
+player:5 point:66
+player:6 point:66
+player:7 point:62
+player:8 point:66
+player:9 point:65
+player:10 point:62
+
+
+Round 3:
+In row 1:104 
+In row 2:15 17 27 
+In row 3:24 39 46 
+In row 4:58 66 67 90 
+player:1 point:66
+player:2 point:58
+player:3 point:62
+player:4 point:64
+player:5 point:66
+player:6 point:66
+player:7 point:62
+player:8 point:66
+player:9 point:65
+player:10 point:62
+
+
+Round 4:
+In row 1:13 
+In row 2:40 42 
+In row 3:86 
+In row 4:58 66 67 90 
+player:1 point:66
+player:2 point:58
+player:3 point:62
+player:4 point:64
+player:5 point:62
+player:6 point:62
+player:7 point:58
+player:8 point:66
+player:9 point:65
+player:10 point:61
+
+
+Round 5:
+In row 1:13 28 30 
+In row 2:83 
+In row 3:86 
+In row 4:100 
+player:1 point:66
+player:2 point:58
+player:3 point:62
+player:4 point:60
+player:5 point:62
+player:6 point:62
+player:7 point:58
+player:8 point:62
+player:9 point:65
+player:10 point:57
+
+
+Round 6:
+In row 1:71 82 85 
+In row 2:4 16 
+In row 3:86 
+In row 4:100 
+player:1 point:66
+player:2 point:54
+player:3 point:62
+player:4 point:59
+player:5 point:62
+player:6 point:62
+player:7 point:54
+player:8 point:62
+player:9 point:65
+player:10 point:57
+
+
+Round 7:
+In row 1:71 82 85 93 
+In row 2:77 
+In row 3:2 
+In row 4:100 101 
+player:1 point:62
+player:2 point:54
+player:3 point:62
+player:4 point:59
+player:5 point:62
+player:6 point:58
+player:7 point:54
+player:8 point:62
+player:9 point:64
+player:10 point:57
+
+
+Round 8:
+In row 1:97 
+In row 2:77 78 
+In row 3:65 69 70 73 
+In row 4:100 101 
+player:1 point:62
+player:2 point:54
+player:3 point:62
+player:4 point:59
+player:5 point:62
+player:6 point:54
+player:7 point:54
+player:8 point:61
+player:9 point:64
+player:10 point:53
+
+
+Round 9:
+In row 1:41 52 59 
+In row 2:77 78 80 87 
+In row 3:65 69 70 73 
+In row 4:100 101 102 
+player:1 point:62
+player:2 point:54
+player:3 point:62
+player:4 point:59
+player:5 point:62
+player:6 point:54
+player:7 point:54
+player:8 point:61
+player:9 point:60
+player:10 point:52
+
+
+Round 10:
+In row 1:23 44 63 72 
+In row 2:88 92 
+In row 3:65 69 70 73 
+In row 4:100 101 102 
+player:1 point:62
+player:2 point:54
+player:3 point:62
+player:4 point:56
+player:5 point:62
+player:6 point:50
+player:7 point:54
+player:8 point:61
+player:9 point:60
+player:10 point:48
+
+
