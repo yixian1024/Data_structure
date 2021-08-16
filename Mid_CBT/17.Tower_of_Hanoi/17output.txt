@@ -1,0 +1,8 @@
+7
+move sheet from A to C
+move sheet from A to B
+move sheet from C to B
+move sheet from A to C
+move sheet from B to A
+move sheet from B to C
+move sheet from A to C
