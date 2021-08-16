@@ -1,0 +1,10 @@
+9
+apple  100
+DVD 10
+book  50
+DVD 20
+car  030
+B_S 41
+DVD   30
+Dvd 41
+apple  100
